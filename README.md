@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GerritSt
 - 👀 I’m interested in coding!!
-- 🌱 I’m currently learning Java
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning C and assembly
 
 <!---
 GerritSt/GerritSt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
